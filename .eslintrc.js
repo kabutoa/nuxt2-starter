@@ -13,5 +13,6 @@ module.exports = {
   // add your custom rules here
   rules: {
     'vue/require-prop-types': 'off',
+    'dot-notation': 'off',
   },
 }
