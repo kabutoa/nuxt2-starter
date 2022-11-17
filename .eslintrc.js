@@ -14,5 +14,6 @@ module.exports = {
   rules: {
     'vue/require-prop-types': 'off',
     'dot-notation': 'off',
+    'no-console': 'off',
   },
 }
